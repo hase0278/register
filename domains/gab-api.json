@@ -1,0 +1,10 @@
+{
+  "description": "Hase0278's developer portfolio website api for AI chatbot",
+  "owner": {
+    "username": "hase0278",
+    "email": "betterhalf278@gmail.com"
+  },
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
